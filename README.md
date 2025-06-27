@@ -87,13 +87,3 @@ python app.py
 ```
 Once started, open your browser and navigate to the address shown in your terminal
 (usually http://127.0.0.1:5000/).
-
-___
-🤝 Contribution & License
-
-Contributions are welcome!
-This project is open-source under the MIT License.
-___
-📬 Contact
-
-Questions or feedback? Reach out on GitHub: @5punix
